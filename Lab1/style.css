@@ -1,0 +1,16 @@
+a {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    size: 25px;
+    color: blue;
+}
+live {
+    width: 100%;
+  height: 100%;
+  
+  display: flex;            /* Вмикаємо Flexbox */
+  justify-content: center;  /* Вирівнювання по горизонталі */
+  align-items: center;      /* Вирівнювання по вертикалі */
+  
+  text-align: center;       /* Центруємо рядки тексту всередині тегу h1 */
+  padding: 20px;
+}
